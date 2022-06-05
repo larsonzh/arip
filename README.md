@@ -5,5 +5,5 @@ Get IPv4 address script of router public network exit with one click
 
 <strong>安装及使用方法</strong>
 <ul>Ddnspod插件在路由器双线路下两个出口间跳IP的解决方法
-https://koolshare.cn/thread-186875-1-1.html
-(出处: KoolShare)</ul>
+https://www.koolcenter.com/posts/93
+(出处: KoolCenter)</ul>
